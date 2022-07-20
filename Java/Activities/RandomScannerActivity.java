@@ -1,4 +1,4 @@
-package activities;
+package Activities;
 
 import java.util.*;
 

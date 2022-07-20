@@ -1,4 +1,4 @@
-package activities;
+package Activities;
 
 @SuppressWarnings("serial")
 public class CustomException extends Exception {

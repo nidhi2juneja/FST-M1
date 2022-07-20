@@ -1,4 +1,4 @@
-package activities;
+package Activities;
 
 public interface BicycleOperations {
 	public void applyBrake(int decrement);

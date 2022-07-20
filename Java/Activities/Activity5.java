@@ -1,4 +1,4 @@
-package activities;
+package Activities;
 
 abstract class Book {
 	// Title of type String

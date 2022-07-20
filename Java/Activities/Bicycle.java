@@ -1,4 +1,4 @@
-package activities;
+package Activities;
 
 public class Bicycle implements BicycleParts, BicycleOperations {
 

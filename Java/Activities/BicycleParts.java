@@ -1,4 +1,4 @@
-package activities;
+package Activities;
 
 public interface BicycleParts {
 	public int gears = 0;
